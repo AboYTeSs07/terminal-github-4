@@ -1,2 +1,3 @@
 Desde terminal para github
 Desde github para terminal
+linea agregada desde clone
